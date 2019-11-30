@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-30T20:18:00.430Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="I0iasvFyElBu953e4wFh" version="12.3.3" type="github" pages="1">
+<mxfile modified="2019-11-30T20:34:02.329Z" host="www.draw.io" agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36" etag="BdTCOb51ePtDval54rmo" version="12.3.3" type="github" pages="1">
   <diagram id="TOJgJLs6M48KQSJz4g4M" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -204,16 +204,6 @@
         </mxCell>
         <mxCell id="Jd6m70Wxk0jmhwS6VclY-149" value="Ice Machine" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=11;" parent="1" vertex="1">
           <mxGeometry x="487" y="688" width="50" height="40" as="geometry"/>
-        </mxCell>
-        <mxCell id="Jd6m70Wxk0jmhwS6VclY-161" value="" style="endArrow=none;dashed=1;html=1;fontSize=9;entryX=0;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="Jd6m70Wxk0jmhwS6VclY-149" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="730" as="sourcePoint"/>
-            <mxPoint x="487" y="733" as="targetPoint"/>
-            <Array as="points"/>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Jd6m70Wxk0jmhwS6VclY-162" value="14ft" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=9;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="442" y="731" width="30" height="10" as="geometry"/>
         </mxCell>
         <mxCell id="Jd6m70Wxk0jmhwS6VclY-168" value="Parkin&lt;span style=&quot;font-size: 11px;&quot;&gt;g &lt;/span&gt;Lot" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;fontSize=11;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="262" y="283" width="60" height="10" as="geometry"/>
